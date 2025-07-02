@@ -2,3 +2,4 @@ streamlit == 1.46.1
 groq == 0.29.0
 faiss-cpu == 1.11.0
 sentence_transformers == 5.0.0
+dotenv == 0.9.9
