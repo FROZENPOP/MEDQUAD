@@ -104,12 +104,13 @@ medical-qa-bot/
 
 - `faiss-cpu`
 - `sentence-transformers`
-- `tqdm`
-- `lxml`
-
+- `streamlit`
+- `groq`
+- `dotenv`
+  
 Install manually if needed:
 ```bash
-pip install faiss-cpu sentence-transformers tqdm lxml
+pip install faiss-cpu sentence-transformers streamlit groq dotenv
 ```
 
 ---
